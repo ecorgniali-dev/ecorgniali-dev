@@ -1,6 +1,6 @@
+![Soy Node.js BackEnd Developer ](https://media-exp1.licdn.com/dms/image/C4D16AQGamQRShtyiLQ/profile-displaybackgroundimage-shrink_200_800/0/1648168783271?e=2147483647&v=beta&t=FzrBCinxtdf7ts2Zben3BTaBiV_yOoFMM4ATL60Bjc4)
 ### Hola 👋, mi nombre es Eduardo!
 #### Soy Node.js BackEnd Developer 
-![Soy Node.js BackEnd Developer ](https://media-exp1.licdn.com/dms/image/C4D16AQGamQRShtyiLQ/profile-displaybackgroundimage-shrink_200_800/0/1648168783271?e=2147483647&v=beta&t=FzrBCinxtdf7ts2Zben3BTaBiV_yOoFMM4ATL60Bjc4)
 
 👨‍💻 Me dedico a desarrollar software hace +2 años. Me especializo fundamentalmente en desarrollo backend y a lo largo de mi experiencia como desarrollador he utilizando distintas tecnologías como Node.js, PHP y Python.
 
