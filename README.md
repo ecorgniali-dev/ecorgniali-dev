@@ -1,27 +1,15 @@
-### Hello World 👋
+### Hola 👋, mi nombre es Eduardo!
+#### Soy Node.js BackEnd Developer 
+![Soy Node.js BackEnd Developer ](https://media-exp1.licdn.com/dms/image/C4D16AQGamQRShtyiLQ/profile-displaybackgroundimage-shrink_200_800/0/1648168783271?e=2147483647&v=beta&t=FzrBCinxtdf7ts2Zben3BTaBiV_yOoFMM4ATL60Bjc4)
 
-🙋‍♂️ Mi nombre es Eduardo, soy Lic. en Administración y Técnico Superior en Programación.
- 
-👨‍💻 Me dedico a desarrollar software hace +2 años. 
-Me especializo fundamentalmente en desarrollo backend y a lo largo de mi experiencia como desarrollador he utilizando distintas tecnologías como Node.js, PHP y Python.
+👨‍💻 Me dedico a desarrollar software hace +2 años. Me especializo fundamentalmente en desarrollo backend y a lo largo de mi experiencia como desarrollador he utilizando distintas tecnologías como Node.js, PHP y Python.
 
-🎯 Mi propósito como profesional es crear soluciones que aporten valor y generen un impacto positivo en la vida de las personas y organizaciones. 
+🎯 Mi propósito como profesional es crear soluciones que aporten valor y generen un impacto positivo en la vida de las personas y organizaciones.
 
 💪 Me motivan los nuevos desafíos y el aprendizaje continuo.
 
-Te invito a conocer mis proyectos: 👉 [Repos](https://github.com/ecorgniali-dev?tab=repositories)
+Habilidades: Node.js / Express.js / MongoDB / PHP / Laravel / Python / Django / MySql 
 
-<!--
-**ecorgniali-dev/ecorgniali-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eduardo-corgniali-software-developer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/EduCorgniali)  
