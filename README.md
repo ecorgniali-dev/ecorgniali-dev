@@ -13,4 +13,4 @@
 Node.js / Express.js / MongoDB / PHP / Laravel / Python / Django / MySql 
 
 ### Redes Sociales
-[<img src='https://img.icons8.com/color/2x/linkedin-circled.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/eduardo-corgniali-software-developer//){:target="_blank"}  [<img src='https://img.icons8.com/color/2x/twitter.png' alt='twitter' height='40'>](https://twitter.com/EduCorgniali){:target="_blank"}  
+[<img src='https://img.icons8.com/color/2x/linkedin-circled.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/eduardo-corgniali-software-developer) [<img src='https://img.icons8.com/color/2x/twitter.png' alt='twitter' height='40'>](https://twitter.com/EduCorgniali)
